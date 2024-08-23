@@ -1,6 +1,4 @@
-Here's a template for your GitHub post that you can use to create a repository for the "Guess the Number" project:
 
----
 
 # 🎲 Guess the Number Game
 
@@ -18,8 +16,8 @@ A simple Java-based console game where you try to guess a randomly generated num
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/guess-the-number.git
-   cd guess-the-number
+   git clone https://github.com/yshivangi36/GuesstheNumber.git
+   cd gGuesstheNumber
    ```
 
 2. **Compile and Run**:
