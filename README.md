@@ -17,7 +17,7 @@ A simple Java-based console game where you try to guess a randomly generated num
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yshivangi36/GuesstheNumber.git
-   cd gGuesstheNumber
+   cd GuesstheNumber
    ```
 
 2. **Compile and Run**:
